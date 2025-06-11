@@ -16,6 +16,7 @@ Contributing
 License
 
 🎯 Project Overview
+
 This project delivers a comprehensive sentiment analysis solution that transforms manual social media monitoring into an automated, data-driven system. Using advanced NLP techniques with spaCy and machine learning, it provides real-time sentiment classification and business intelligence for brand management.
 Purpose
 
@@ -28,7 +29,9 @@ Target Outcome
 Build a production-ready sentiment analysis system that achieves reasonable accuracy in classifying social media sentiment while delivering immediate business value through automated monitoring and alerting.
 
 🎯 Business Problem
+
 Challenge
+
 Organizations struggle with manual social media sentiment monitoring which is:
 
 Time-intensive and unscalable with growing social media volume
