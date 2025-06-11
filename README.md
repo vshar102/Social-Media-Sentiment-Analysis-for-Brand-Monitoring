@@ -26,6 +26,7 @@ Provide actionable insights for marketing and customer engagement strategies
 
 Target Outcome
 Build a production-ready sentiment analysis system that achieves reasonable accuracy in classifying social media sentiment while delivering immediate business value through automated monitoring and alerting.
+
 🎯 Business Problem
 Challenge
 Organizations struggle with manual social media sentiment monitoring which is:
