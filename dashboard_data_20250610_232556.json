@@ -1,0 +1,85 @@
+{
+  "summary_metrics": {
+    "total_tweets": 9896,
+    "positive_ratio": 0.4994947453516572,
+    "negative_ratio": 0.5005052546483427,
+    "best_model_accuracy": 0.7075757575757575,
+    "average_confidence": 0.696590909090909
+  },
+  "temporal_trends": {
+    "2009-04": {
+      "count": 573,
+      "mean": 0.5933682373472949
+    },
+    "2009-05": {
+      "count": 3503,
+      "mean": 0.6080502426491579
+    },
+    "2009-06": {
+      "count": 5820,
+      "mean": 0.424914089347079
+    }
+  },
+  "model_comparison": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.7075757575757575,
+      "F1-Score": 0.7074791328029573,
+      "Precision": 0.7078771365127979,
+      "Recall": 0.7075757575757575,
+      "CV Mean": 0.6993450774325695,
+      "CV Std": 0.00838187070160118
+    },
+    {
+      "Model": "Naive Bayes",
+      "Accuracy": 0.6994949494949495,
+      "F1-Score": 0.6994349183908009,
+      "Precision": 0.6996351679554037,
+      "Recall": 0.6994949494949495,
+      "CV Mean": 0.6997240248345744,
+      "CV Std": 0.012130676745396439
+    },
+    {
+      "Model": "SVM",
+      "Accuracy": 0.694949494949495,
+      "F1-Score": 0.6947919275398613,
+      "Precision": 0.6953856020522688,
+      "Recall": 0.694949494949495,
+      "CV Mean": 0.6896174314209691,
+      "CV Std": 0.00941782998032838
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.6843434343434344,
+      "F1-Score": 0.6842890756531722,
+      "Precision": 0.6844530122507791,
+      "Recall": 0.6843434343434344,
+      "CV Mean": 0.6798885889852408,
+      "CV Std": 0.011387167331795569
+    }
+  ],
+  "top_positive_words": [
+    "good",
+    "not",
+    "love",
+    "day",
+    "thank",
+    "get",
+    "like",
+    "time",
+    "today",
+    "lol"
+  ],
+  "top_negative_words": [
+    "not",
+    "work",
+    "day",
+    "get",
+    "miss",
+    "like",
+    "want",
+    "today",
+    "feel",
+    "think"
+  ]
+}
